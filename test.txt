@@ -3,4 +3,12 @@
 sdfsdf
 dsfsdf
 asfsdf
+sdfsfsfdfsfds<<<<<<< .mine
+dsfsdf
+asfsdf
 sdfsfsf
+=======
+
+
+
+>>>>>>> .theirs
