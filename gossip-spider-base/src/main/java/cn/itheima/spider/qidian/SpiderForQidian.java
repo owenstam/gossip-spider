@@ -63,9 +63,6 @@ public class SpiderForQidian {
 
             url = "https:" + href;
             System.out.println(url);
-
-
-
         }
         }
 
